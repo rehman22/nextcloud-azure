@@ -5,8 +5,8 @@ export DEBIAN_FRONTEND=noninteractive
 # defaults 
 HOSTNAME="localhost"
 USERNAME="admin"
-PASSWORD="password123"
-EMAIL="test@example.com"
+PASSWORD="rehman"
+EMAIL="rehmanshahyan@outlook.com"
 STORAGEACCOUNT=""
 CONTAINER=""
 

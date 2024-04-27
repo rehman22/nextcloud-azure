@@ -5,25 +5,25 @@
     "adminUsername": {
       "type": "string",
       "metadata": {
-        "description": "Username for the Virtual Machine."
+        "description": "rehman"
       }
     },
     "adminPassword": {
       "type": "securestring",
       "metadata": {
-        "description": "Password for the Virtual Machine."
+        "description": "rehman2994"
       }
     },
     "sslEmail": {
       "type": "string",
       "metadata": {
-        "description": "Email address for Let's Encrypt."
+        "description": "rehmanshahyan@outlook.com"
       }
     },	
     "dnsNameForPublicIP": {
       "type": "string",
       "metadata": {
-        "description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
+        "description": "rehman"
       }
     }
   },
